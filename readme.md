@@ -60,12 +60,12 @@ List the ready features here:
 
 Clone repo by HTTPS:
 ```
-https://github.com/deepen77/blog-by-przemek.git
+https://github.com/deepen77/blog-by-przemek-frontend.git
 ```
 
 or by Github CLI:
 ```
-gh repo clone deepen77/blog-by-przemek
+gh repo clone deepen77/blog-by-przemek-frontend
 ```
 
 for installing all dependencies
