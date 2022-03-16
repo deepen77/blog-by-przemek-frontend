@@ -3,7 +3,7 @@
     <img width="300" src="https://res.cloudinary.com/dxom9bksx/image/upload/v1647446667/sreenshots/logo-blog_stbvop.png" alt="cms logo">
   </a>
 </p>
-<h3 align="center">Techy Blog- </h3>
+<h3 align="center">Techy Blog</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/React--purple" alt="Version">
@@ -16,7 +16,7 @@
 </p>
 
 
-> Live demo [_here_](https://blog-by-przemekv1.netlify.app/")
+> Live demo [_here_](https://blog-by-przemekv1.netlify.app/)
 
 ## Table of Contents
 * [General Info](#general-information)
